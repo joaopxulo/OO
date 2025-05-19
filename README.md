@@ -51,9 +51,9 @@ poo/
 git clone https://github.com/seu-usuario/poo-java.git
 ```
 
-2. Abra o projeto em sua IDE preferida (recomenda-se **NetBeans** ou **IntelliJ IDEA**).
+2. Abra o projeto em sua IDE preferida.
 
-3. Navegue até o diretório do roteiro desejado (ex: `roteiro1/`), e **compile a classe `Main.java`** para executar o programa.
+3. Navegue até o diretório do roteiro desejado e compile a classe `App.java` para executar o programa.
 
 ---
 
@@ -78,7 +78,6 @@ Instituto Federal do Sudeste de Minas Gerais
 
 ## 👥 Autores
 
-- 👨‍💻 [Arthur Pimentel](https://github.com/arthurpimentel)
 - 👨‍💻 [João Paulo Marques](https://github.com/seu-usuario)
 
 ---
