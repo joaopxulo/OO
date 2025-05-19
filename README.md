@@ -26,24 +26,6 @@ Todos os projetos aqui implementados utilizam a linguagem **Java** e têm como f
 
 ---
 
-## 📂 Estrutura do Repositório
-
-```bash
-poo/
-├── roteiro1/              # Operações geométricas com pontos no plano
-│   ├── classes/
-│   ├── Main.java
-├── roteiro2/              # Herança e identificação de figuras geométricas
-│   ├── classes/
-│   ├── Main.java
-├── roteiro3/              # Polimorfismo aplicado a formas
-│   ├── ...
-├── ...
-└── README.md              # Este arquivo
-```
-
----
-
 ## ⚙️ Como Executar os Projetos
 
 1. Clone o repositório:
