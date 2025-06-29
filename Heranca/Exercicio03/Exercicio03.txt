@@ -1,0 +1,9 @@
+Erros:
+
+Linha 12: O método metodoQualquer(...) requer um objeto do tipo Diretor como argumento, mas foi fornecido um Funcionário.
+
+Linha 13: O mesmo problema da linha anterior, porém, em vez de um Funcionário, foi passado um Engenheiro.
+
+Linha 17: Está sendo criada uma instância de Gerente, mas atribuída a uma variável do tipo Diretor.
+
+Linha 18: Assim como na linha 17, há uma tentativa de atribuir um objeto do tipo Gerente a uma variável do tipo Engenheiro, o que não é compatível, pois Gerente é uma subclasse de Funcionário, não de Engenheiro.
